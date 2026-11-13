@@ -38,7 +38,7 @@
     "image": "https://raw.githubusercontent.com/Smotherer007/pi-abap-fs/main/screenshot.png"
   },
   "dependencies": {
-    "abap-adt-api": "^8.4.3"
+    "abap-adt-api": "^10.0.0"
   },
   "peerDependencies": {
     "typebox": "*"
