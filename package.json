@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Smotherer007/pi-abap-fs.git"
+    "url": "https://github.com/patimweb-agents/pi-abap-fs.git"
   },
   "bugs": {
-    "url": "https://github.com/Smotherer007/pi-abap-fs/issues"
+    "url": "https://github.com/patimweb-agents/pi-abap-fs/issues"
   },
   "publishConfig": {
     "access": "public"
